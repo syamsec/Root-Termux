@@ -25,3 +25,7 @@ how to Root Termux without Android or IOS root
     proot-distro install <alias>
     proot-distro login <alias>
 
+# 
+Here are some operating systems that can be run by you
+
+![tools](https://user-images.githubusercontent.com/121809593/215298435-045e20a9-b870-4217-b26d-c3ac5068557f.jpg)
